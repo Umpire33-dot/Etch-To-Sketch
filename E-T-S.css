@@ -20,3 +20,7 @@ body {
     align-items: center;
     background: #fffaf0;
 }
+
+#reset-btn{
+    padding: 12px;
+}
