@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#container {
+    display: grid;
+    width: 550px;
+    height: 550px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    box-sizing: border-box;
+}
